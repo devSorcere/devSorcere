@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="coder"  width="60%"/><br> 
   
 <p><strong>Freelancing & Assisting my father at his shop.
 <br><br> Vibing to : 🎧  </strong></p>
