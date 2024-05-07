@@ -1,7 +1,7 @@
 
 ## About me👨🏻‍💻
 <div width="50">
-  <img align="right" src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/>
+  <img align="right" src="https://github.com/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/>
   👨‍💻 Hey there! I'm Miguel Coronel, a full-stack developer with a passion for building awesome web applications from top to bottom.
 
 🌐 Whether it's crafting pixel-perfect UIs or architecting scalable backend systems, I thrive on the full spectrum of development challenges.
