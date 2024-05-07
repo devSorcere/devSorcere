@@ -45,7 +45,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
