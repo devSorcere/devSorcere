@@ -35,7 +35,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ## My Tech Stack👨🏻‍💻
-
 <img align="left" alt="HTML5" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
 <img align="left" alt="CSS3" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
 <img align="left" alt="CSS3" width="52px" src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" style="padding:10px;" />
@@ -54,12 +53,25 @@
 <img align="left" alt="MySQL" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
 <img align="left" alt="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
 <img align="left" alt="Git" width="52px" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" style="padding:10px;" />
-<br />
-<br />
-## My Tech Stack👨🏻‍💻
-## My Tech Stack👨🏻‍💻
-## My Tech Stack👨🏻‍💻
-## My Tech Stack👨🏻‍💻
+
+  <br></br>
+  <br></br>
+  <br></br>
+## 📈 my github stats
+
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+
+  
+
+
+
+
 
 
 
