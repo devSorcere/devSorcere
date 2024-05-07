@@ -2,7 +2,7 @@
 ## About me👨🏻‍💻
 <div width="50">
   ### Talking about Personal Stuff:
-<img align=""right src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/>
+<img align="right"src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/>
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
