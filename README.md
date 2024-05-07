@@ -1,15 +1,7 @@
 
 ## About me👨🏻‍💻
 <div width="50">
-  ### Talking about Personal Stuff:
-<img align="right"src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/>
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
-  
-  👨‍💻 Hey there! I'm [Your Name], a full-stack developer with a passion for building awesome web applications from top to bottom.
+  👨‍💻 Hey there! I'm Miguel Coronel, a full-stack developer with a passion for building awesome web applications from top to bottom.
 
 🌐 Whether it's crafting pixel-perfect UIs or architecting scalable backend systems, I thrive on the full spectrum of development challenges.
 
@@ -17,7 +9,7 @@
 
 🚀 From database design to deployment, I'm committed to delivering high-quality, user-centric solutions that make an impact.
 
-🔍 Currently exploring the latest trends in [specific area of interest], I'm always eager to learn and stay ahead of the curve.
+🔍 Currently exploring the latest trends in Web3,MERN I'm always eager to learn and stay ahead of the curve.
 
 💬 Let's connect and collaborate on something amazing! Reach out to me [on LinkedIn / via email / through my website], and let's build the future together!
 </div>
