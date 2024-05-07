@@ -10,6 +10,9 @@
 💼 With expertise in frontend technologies like HTML, CSS, JavaScript, and frameworks like React and Vue.js, coupled with backend proficiency in Node.js, Python, or Java, I bring a holistic approach to every project.
 
 🚀 From database design to deployment, I'm committed to delivering high-quality, user-centric solutions that make an impact.
+🔍 Currently exploring the latest trends in Web3, I'm always eager to learn and stay ahead of the curve.
+
+💬 Let's connect and collaborate on something amazing! Reach out to me [on LinkedIn / via email / through my website], and let's build the future together!
   </div>
 
 </div>
