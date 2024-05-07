@@ -1,7 +1,12 @@
-<div align="center" width="50">
-<div style="display:flex;">
-  <div>dsf</div>
-  <div>sdfsdf</div>
+<div width="50">
+  ### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+  
   👨‍💻 Hey there! I'm [Your Name], a full-stack developer with a passion for building awesome web applications from top to bottom.
 
 🌐 Whether it's crafting pixel-perfect UIs or architecting scalable backend systems, I thrive on the full spectrum of development challenges.
@@ -14,7 +19,7 @@
 
 💬 Let's connect and collaborate on something amazing! Reach out to me [on LinkedIn / via email / through my website], and let's build the future together!
 </div>
-<img src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/> <br>
+<img align=""right src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="50%"/> <br>
   
 <p><strong>Freelancing & Assisting my father at his shop.
 <br><br> Vibing to : 🎧  </strong></p>
