@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<div style="display:flex">
+<div style="display:flex;">
   <div>dsf</div>
   <div>sdfsdf</div>
   👨‍💻 Hey there! I'm [Your Name], a full-stack developer with a passion for building awesome web applications from top to bottom.
