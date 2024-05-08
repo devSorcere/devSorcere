@@ -55,7 +55,7 @@
 </a>
     </td>
     <td width="50%">
-        <a href="https://github.com/RanitManik">
+        <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td width="40%"  align="center">
-        <a href="https://github.com/RanitManik">
+        <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10" />
@@ -81,7 +81,7 @@
         </a>
     </td>
     <td width="60%"  align="center">
-        <a href="https://github.com/RanitManik">
+        <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10" />
