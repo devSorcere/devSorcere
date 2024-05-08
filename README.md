@@ -63,6 +63,11 @@
           </picture>
         </a>
     </td>
+    <td width="50%">
+        <a href="https://github.com/SeniorDeveloper47">
+          <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganraj21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </a>
+    </td>
   </tr>
 </table>
 
