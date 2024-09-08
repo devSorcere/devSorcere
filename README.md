@@ -3,7 +3,7 @@
 <div width="50">
   <img align="right" height="80%" src="https://github.com/SeniorDeveloper47/SeniorDeveloper47/blob/main/code.gif" href="https://github.com/SeniorDeveloper47" alt="Hello Coders" width="60%"/>
   <div padding-top="60px">
-      👨‍💻 Hey there! I'm Miguel Coronel, a full-stack developer with a passion for building awesome web applications from top to bottom.
+      👨‍💻 Hey there! I'm a full-stack developer with a passion for building awesome web applications from top to bottom.
 
 🌐 Whether it's crafting pixel-perfect UIs or architecting scalable backend systems, I thrive on the full spectrum of development challenges.
 
