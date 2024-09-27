@@ -50,11 +50,6 @@
 <table width="100%">
   <tr>
     <td width="50%">
-       <a href="https://github.com/SeniorDeveloper47">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-    </td>
-    <td width="50%">
         <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
@@ -76,7 +71,7 @@
 <table width="100%" align="center">
   </tr>
   <tr>
-<!--     <td width="40%"  align="center">
+    <td width="40%"  align="center">
         <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
@@ -84,7 +79,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
-    </td> -->
+    </td>
     <td width="60%"  align="center">
         <a href="https://github.com/SeniorDeveloper47">
           <picture>
