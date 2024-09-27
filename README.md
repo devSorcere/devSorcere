@@ -76,7 +76,7 @@
 <table width="100%" align="center">
   </tr>
   <tr>
-    <td width="40%"  align="center">
+<!--     <td width="40%"  align="center">
         <a href="https://github.com/SeniorDeveloper47">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
@@ -84,7 +84,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
-    </td>
+    </td> -->
     <td width="60%"  align="center">
         <a href="https://github.com/SeniorDeveloper47">
           <picture>
